@@ -21,7 +21,6 @@
   <img align="center" alt="Purger-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Purger-microsoftsqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Purger-scala" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQE3hZ5dEMgWkA/profile-displayphoto-shrink_800_800/0/1654718742225?e=1668038400&v=beta&t=nptXS5ntilPCQboGKsmEQG0-c5tI7WqbL267FgzuLv8">
 </div>
   
   ##
