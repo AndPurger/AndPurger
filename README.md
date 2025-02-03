@@ -1,10 +1,3 @@
-- 👋 Hi, I’m André Purger Brasil
-- 🐍 Currently my main language is Python.
-- 🥞 I’m currently learning SQL extensions and Java.
-- 🤔 Give me a problem and I'll find a way to solve it.
-- 💡  I have always enjoyed exploring and experimenting with new ways of solving a problem or reproducing a solution.
-- 📫 How to reach me? andrepurger@gmail.com and linkedin.com/in/andrepurger
-
 A spontaneous, creative and dedicated person, with a lot of affinity for technology.
 
 I have always been enthusiast with technological innovations, different tools, engineering, disassembling and assembling things, finding solutions, inventing, reinventing, rebuilding and adapting, whatever, I have always enjoyed exploring and experimenting with new ways of solving a problem or reproducing a solution.
